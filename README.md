@@ -1,3 +1,3 @@
 # demo_repo
-This is my first repository
-Author - Aman
+This is my first repository.
+Author - Aman.
